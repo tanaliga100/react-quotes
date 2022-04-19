@@ -1,0 +1,24 @@
+
+
+.quote {
+  background-color: #162b2b;
+  color: rgba(221, 149, 32, 0.438);
+  border-radius: 6px;
+  padding: 3rem;
+  margin: 3rem auto;
+  width: 90%;
+  max-width: 40rem;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.quote p {
+  font-size: 2.5rem;
+  font-family: monospace;
+}
+
+.quote figcaption {
+  font-style: italic;
+  font-size: 1.5rem;
+  text-align: right;
+  color: rgba(0, 255, 255, 0.233);
+}
